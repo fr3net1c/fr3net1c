@@ -1,6 +1,6 @@
 - I’m @fr3net1c
-- At this moment learning Rust, C++
-- Interested in breaking configuring my hyprdots
+- At this moment learning Rust, C++, Go, more over I am seeking to build career in cybersecurity
+- Interested in (breaking) configuring my hyprdots
 - Arch Linux fan
-- Hobbies: Chess, Cybersec
+- Hobbies: Reading, fixing things, making mistakes
 
