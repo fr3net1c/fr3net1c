@@ -1,6 +1,6 @@
-- I’m @fr3net1c
-- At this moment learning Rust, C++, Go, more over I am seeking to build career in cybersecurity
-- Interested in (breaking) configuring my hyprdots
-- Arch Linux fan
-- Hobbies: Reading, fixing things, making mistakes
+- At this moment learning Rust, Go
+- Seeking to build career in cybersecurity
+- Arch Linux fan ( Interested in (breaking) configuring my hyprdots )
+- Hobbies: embedded systems, programming, the book "crime and punishment".
+- fav games: Sekiro, Dark Souls (1,3), Elden Ring.
 
